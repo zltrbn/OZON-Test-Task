@@ -70,6 +70,11 @@ https://akabab.github.io/superhero-api/api/all.json
 
 ## Запуск проекта
 
+Перед запуском проекта требуется создать виртуальное окружение:
+
+    python -m venv .venv
+    source .venv/bin/activate
+
 Для установки зависимостей выполните:
 
     pip install -r requirements.txt
